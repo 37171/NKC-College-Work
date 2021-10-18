@@ -1,2 +1,2 @@
 # NKC-College-Work
-Just my college work.
+Just my college (coding) work, organised into dated folders.
