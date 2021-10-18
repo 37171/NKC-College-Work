@@ -1,0 +1,16 @@
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.vbproj.AssemblyReference.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\_18_10_21___notebookMultipleIFs.mainForm.resources
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.vbproj.GenerateResource.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.AssemblyInfoInputs.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.AssemblyInfo.vb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.vbproj.CoreCompileInputs.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.exe
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.deps.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.runtimeconfig.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.runtimeconfig.dev.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.dll
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\bin\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.pdb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.dll
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.pdb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookMultipleIFs\18 10 21 - notebookMultipleIFs\obj\Debug\netcoreapp3.1\18 10 21 - notebookMultipleIFs.genruntimeconfig.cache
