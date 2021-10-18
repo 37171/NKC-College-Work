@@ -1,0 +1,16 @@
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.vbproj.AssemblyReference.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\_18_10_21___notebookSelection.voteAge.resources
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.vbproj.GenerateResource.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.AssemblyInfoInputs.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.AssemblyInfo.vb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.vbproj.CoreCompileInputs.cache
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.exe
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.deps.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.runtimeconfig.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.runtimeconfig.dev.json
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.dll
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\bin\Debug\netcoreapp3.1\18 10 21 - notebookSelection.pdb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.dll
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.pdb
+C:\Users\Vaux\Desktop\repos\18 10 21 - notebookSelection\18 10 21 - notebookSelection\obj\Debug\netcoreapp3.1\18 10 21 - notebookSelection.genruntimeconfig.cache
