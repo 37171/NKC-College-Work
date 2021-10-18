@@ -8,7 +8,11 @@
                 outputAgeTest.Text = "You are old enough to vote!"
             Else
                 age = 18 - age
-                outputAgeTest.Text = "You can vote in " + Convert.ToString(age) + " years."
+                If age = 1 Then
+                    outputAgeTest.Text = "You can vote in 1 year."
+                Else
+                    outputAgeTest.Text = "You can vote in " + Convert.ToString(age) + " years."
+                End If
             End If
         Catch ex As System.InvalidCastException
             outputAgeTest.Text = "ERROR: Please enter a valid number."
