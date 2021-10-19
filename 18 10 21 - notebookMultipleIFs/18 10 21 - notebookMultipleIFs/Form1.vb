@@ -2,6 +2,7 @@
     Private Sub compareExec_Click(sender As Object, e As EventArgs) Handles compareExec.Click
         Dim num1 As Double
         Dim num2 As Double
+        'Note; as all exceptions handled in this program are InvalidCastExceptions, it would be more efficient to use TypeCast()
         Try
             num1 = compareNumIn1.Text
             num2 = compareNumIn2.Text
@@ -56,6 +57,19 @@
         Catch ex As System.InvalidCastException
             oddEvenOut.Text = "ERROR: please enter a valid number!"
             oddEvenOut.ForeColor = Color.FromArgb(230, 0, 0)
+        End Try
+    End Sub
+
+    Private Sub BMIExec_Click(sender As Object, e As EventArgs) Handles BMIExec.Click
+        Try
+            Dim weight As Decimal = 0.45359237 * BMIInLBS.Text
+            Dim height As Decimal = 0.0254 * BMIInINCHS.Text
+            Dim BMI As Decimal = Math.Round((weight / height ^ 2), 2)
+            BMIOut.ForeColor = Color.FromArgb(0, 0, 0)
+            BMIOut.Text = "BMI: " + Convert.ToString(BMI)
+        Catch ex As System.InvalidCastException
+            BMIOut.Text = "ERROR: please enter two valid numbers!"
+            BMIOut.ForeColor = Color.FromArgb(230, 0, 0)
         End Try
     End Sub
 End Class

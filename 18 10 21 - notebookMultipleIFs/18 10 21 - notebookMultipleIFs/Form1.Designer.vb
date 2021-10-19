@@ -36,13 +36,21 @@ Partial Class mainForm
         Me.rangeCheckIn = New System.Windows.Forms.TextBox()
         Me.rangeCheck = New System.Windows.Forms.Button()
         Me.oddEvenBox = New System.Windows.Forms.GroupBox()
-        Me.oddEvenCheck = New System.Windows.Forms.Button()
-        Me.oddEvenOut = New System.Windows.Forms.Label()
         Me.oddEvenIn = New System.Windows.Forms.TextBox()
+        Me.oddEvenOut = New System.Windows.Forms.Label()
+        Me.oddEvenCheck = New System.Windows.Forms.Button()
+        Me.BMIInINCHS = New System.Windows.Forms.TextBox()
+        Me.BMIInLBS = New System.Windows.Forms.TextBox()
+        Me.BMIBox = New System.Windows.Forms.GroupBox()
+        Me.BMIExec = New System.Windows.Forms.Button()
+        Me.BMIOut = New System.Windows.Forms.Label()
+        Me.BMILabelINCHS = New System.Windows.Forms.Label()
+        Me.BMILabelLBS = New System.Windows.Forms.Label()
         Me.compareBox.SuspendLayout()
         Me.passTestBox.SuspendLayout()
         Me.rangeCheckBox.SuspendLayout()
         Me.oddEvenBox.SuspendLayout()
+        Me.BMIBox.SuspendLayout()
         Me.SuspendLayout()
         '
         'compareExec
@@ -171,19 +179,17 @@ Partial Class mainForm
         Me.oddEvenBox.Controls.Add(Me.oddEvenCheck)
         Me.oddEvenBox.Location = New System.Drawing.Point(12, 93)
         Me.oddEvenBox.Name = "oddEvenBox"
-        Me.oddEvenBox.Size = New System.Drawing.Size(256, 75)
+        Me.oddEvenBox.Size = New System.Drawing.Size(264, 75)
         Me.oddEvenBox.TabIndex = 7
         Me.oddEvenBox.TabStop = False
         Me.oddEvenBox.Text = "Odd or Even?"
         '
-        'oddEvenCheck
+        'oddEvenIn
         '
-        Me.oddEvenCheck.Location = New System.Drawing.Point(6, 22)
-        Me.oddEvenCheck.Name = "oddEvenCheck"
-        Me.oddEvenCheck.Size = New System.Drawing.Size(75, 23)
-        Me.oddEvenCheck.TabIndex = 0
-        Me.oddEvenCheck.Text = "Check"
-        Me.oddEvenCheck.UseVisualStyleBackColor = True
+        Me.oddEvenIn.Location = New System.Drawing.Point(87, 22)
+        Me.oddEvenIn.Name = "oddEvenIn"
+        Me.oddEvenIn.Size = New System.Drawing.Size(100, 23)
+        Me.oddEvenIn.TabIndex = 2
         '
         'oddEvenOut
         '
@@ -194,18 +200,86 @@ Partial Class mainForm
         Me.oddEvenOut.TabIndex = 1
         Me.oddEvenOut.Text = "Enter an integer to find out if it's odd or even."
         '
-        'oddEvenIn
+        'oddEvenCheck
         '
-        Me.oddEvenIn.Location = New System.Drawing.Point(87, 22)
-        Me.oddEvenIn.Name = "oddEvenIn"
-        Me.oddEvenIn.Size = New System.Drawing.Size(100, 23)
-        Me.oddEvenIn.TabIndex = 2
+        Me.oddEvenCheck.Location = New System.Drawing.Point(6, 22)
+        Me.oddEvenCheck.Name = "oddEvenCheck"
+        Me.oddEvenCheck.Size = New System.Drawing.Size(75, 23)
+        Me.oddEvenCheck.TabIndex = 0
+        Me.oddEvenCheck.Text = "Check"
+        Me.oddEvenCheck.UseVisualStyleBackColor = True
+        '
+        'BMIInINCHS
+        '
+        Me.BMIInINCHS.Location = New System.Drawing.Point(194, 21)
+        Me.BMIInINCHS.Name = "BMIInINCHS"
+        Me.BMIInINCHS.Size = New System.Drawing.Size(100, 23)
+        Me.BMIInINCHS.TabIndex = 4
+        '
+        'BMIInLBS
+        '
+        Me.BMIInLBS.Location = New System.Drawing.Point(88, 21)
+        Me.BMIInLBS.Name = "BMIInLBS"
+        Me.BMIInLBS.Size = New System.Drawing.Size(100, 23)
+        Me.BMIInLBS.TabIndex = 5
+        '
+        'BMIBox
+        '
+        Me.BMIBox.Controls.Add(Me.BMIExec)
+        Me.BMIBox.Controls.Add(Me.BMIOut)
+        Me.BMIBox.Controls.Add(Me.BMILabelINCHS)
+        Me.BMIBox.Controls.Add(Me.BMILabelLBS)
+        Me.BMIBox.Controls.Add(Me.BMIInINCHS)
+        Me.BMIBox.Controls.Add(Me.BMIInLBS)
+        Me.BMIBox.Location = New System.Drawing.Point(282, 93)
+        Me.BMIBox.Name = "BMIBox"
+        Me.BMIBox.Size = New System.Drawing.Size(313, 75)
+        Me.BMIBox.TabIndex = 6
+        Me.BMIBox.TabStop = False
+        Me.BMIBox.Text = "BMI Checker"
+        '
+        'BMIExec
+        '
+        Me.BMIExec.Location = New System.Drawing.Point(7, 22)
+        Me.BMIExec.Name = "BMIExec"
+        Me.BMIExec.Size = New System.Drawing.Size(75, 23)
+        Me.BMIExec.TabIndex = 0
+        Me.BMIExec.Text = "Check BMI"
+        Me.BMIExec.UseVisualStyleBackColor = True
+        '
+        'BMIOut
+        '
+        Me.BMIOut.AutoSize = True
+        Me.BMIOut.Location = New System.Drawing.Point(6, 48)
+        Me.BMIOut.Name = "BMIOut"
+        Me.BMIOut.Size = New System.Drawing.Size(168, 15)
+        Me.BMIOut.TabIndex = 8
+        Me.BMIOut.Text = "Note: BMI is inherently flawed."
+        '
+        'BMILabelINCHS
+        '
+        Me.BMILabelINCHS.AutoSize = True
+        Me.BMILabelINCHS.Location = New System.Drawing.Point(194, 0)
+        Me.BMILabelINCHS.Name = "BMILabelINCHS"
+        Me.BMILabelINCHS.Size = New System.Drawing.Size(110, 15)
+        Me.BMILabelINCHS.TabIndex = 0
+        Me.BMILabelINCHS.Text = "Enter height (inchs)"
+        '
+        'BMILabelLBS
+        '
+        Me.BMILabelLBS.AutoSize = True
+        Me.BMILabelLBS.Location = New System.Drawing.Point(88, 0)
+        Me.BMILabelLBS.Name = "BMILabelLBS"
+        Me.BMILabelLBS.Size = New System.Drawing.Size(99, 15)
+        Me.BMILabelLBS.TabIndex = 0
+        Me.BMILabelLBS.Text = "Enter weight (lbs)"
         '
         'mainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(794, 409)
+        Me.Controls.Add(Me.BMIBox)
         Me.Controls.Add(Me.oddEvenBox)
         Me.Controls.Add(Me.rangeCheckBox)
         Me.Controls.Add(Me.passTestBox)
@@ -220,6 +294,8 @@ Partial Class mainForm
         Me.rangeCheckBox.PerformLayout()
         Me.oddEvenBox.ResumeLayout(False)
         Me.oddEvenBox.PerformLayout()
+        Me.BMIBox.ResumeLayout(False)
+        Me.BMIBox.PerformLayout()
         Me.ResumeLayout(False)
 
     End Sub
@@ -241,4 +317,11 @@ Partial Class mainForm
     Friend WithEvents oddEvenIn As TextBox
     Friend WithEvents oddEvenOut As Label
     Friend WithEvents oddEvenCheck As Button
+    Friend WithEvents BMIInINCHS As TextBox
+    Friend WithEvents BMIInLBS As TextBox
+    Friend WithEvents BMIBox As GroupBox
+    Friend WithEvents BMILabelINCHS As Label
+    Friend WithEvents BMILabelLBS As Label
+    Friend WithEvents BMIOut As Label
+    Friend WithEvents BMIExec As Button
 End Class
