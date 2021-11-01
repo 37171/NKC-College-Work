@@ -1,0 +1,12 @@
+C:\Users\00037171\source\repos\textManipTest\textManipTest\bin\Debug\textManipTest.exe.config
+C:\Users\00037171\source\repos\textManipTest\textManipTest\bin\Debug\textManipTest.exe
+C:\Users\00037171\source\repos\textManipTest\textManipTest\bin\Debug\textManipTest.pdb
+C:\Users\00037171\source\repos\textManipTest\textManipTest\bin\Debug\textManipTest.xml
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.vbprojAssemblyReference.cache
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.Form1.resources
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.Resources.resources
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.vbproj.GenerateResource.cache
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.vbproj.CoreCompileInputs.cache
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.exe
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.xml
+C:\Users\00037171\source\repos\textManipTest\textManipTest\obj\Debug\textManipTest.pdb

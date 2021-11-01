@@ -1,0 +1,12 @@
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\bin\Debug\dataTypeExercises.exe.config
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\bin\Debug\dataTypeExercises.exe
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\bin\Debug\dataTypeExercises.pdb
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\bin\Debug\dataTypeExercises.xml
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.vbprojAssemblyReference.cache
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.calculatorTest.resources
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.Resources.resources
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.vbproj.GenerateResource.cache
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.vbproj.CoreCompileInputs.cache
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.exe
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.xml
+C:\Users\00037171\source\repos\dataTypeExercises\dataTypeExercises\obj\Debug\dataTypeExercises.pdb
